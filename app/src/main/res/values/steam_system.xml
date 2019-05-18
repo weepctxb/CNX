@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="steam_system">
+        <item>(Please select)</item>
+        <item>Saturated</item>
+        <item>Superheated/Subcooled</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dpbbp_mode">
+        <item>(Please select)</item>
+        <item>Bubble point pressure</item>
+        <item>Bubble point temperature</item>
+        <item>Dew point temperature</item>
+        <item>Dew point pressure</item>
+        <item>Flash calculations</item>
+    </string-array>
+</resources>
