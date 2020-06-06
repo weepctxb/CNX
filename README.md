@@ -1,7 +1,14 @@
 # CNX
 Chemical Engineering Calculations made simpler.
 
-![CNX](https://raw.githubusercontent.com/weepctxb/CNX/master/app/src/main/res/GooglePlayStore.png)
+![CNX](./app/src/main/res/GooglePlayStore.png){height=400px width=400px}
+
+Quick install: Download ![the apk](./app/build/outputs/apk/debug/app-debug.apk), 
+![enable third-party apps](https://www.cnet.com/how-to/how-to-enable-third-party-app-installation-on-most-android-phones/) 
+on your Android phone, and ![install manually](https://www.androidauthority.com/how-to-install-apks-31494/).
+
+A detailed user guide containing available calculation modes can be 
+![found here](./app/src/main/assets/User Guide.pdf)
 
 ##FAQ:
 
