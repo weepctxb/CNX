@@ -1,7 +1,7 @@
 # CNX
 Chemical Engineering Calculations made simpler.
 
-[CNX](./app/src/main/res/GooglePlayStore.png =400x400)
+![CNX](./app/src/main/res/GooglePlayStore.png =400x400)
 
 Quick install: Download [the apk](https://github.com/weepctxb/CNX/tree/master/app/build/outputs/apk/debug), 
 [enable third-party apps](https://www.cnet.com/how-to/how-to-enable-third-party-app-installation-on-most-android-phones/) 
