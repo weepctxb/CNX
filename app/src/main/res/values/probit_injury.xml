@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="probit_injury">
+        <item>(Please select)</item>
+        <item>Burn death from flash fire</item>
+        <item>Burn death from pool burning</item>
+        <item>Death from lung hemorrhage</item>
+        <item>Eardrum rupture</item>
+        <item>Death from impact</item>
+        <item>Injury from impact</item>
+        <item>Injury from flying fragment</item>
+        <item>Structural damage</item>
+        <item>Glass breakage</item>
+        <item>Ammonia death</item>
+        <item>Carbon monoxide death</item>
+        <item>Chlorine death</item>
+        <item>Ethylene oxide death</item>
+        <item>Hydrogen chloride death</item>
+        <item>Nitrogen dioxide death</item>
+        <item>Phosgene death</item>
+        <item>Propylene oxide death</item>
+        <item>Sulfur dioxide death</item>
+        <item>Toluene death</item>
+    </string-array>
+</resources>

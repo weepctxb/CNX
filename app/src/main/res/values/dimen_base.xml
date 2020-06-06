@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dimen_base">
+        <item>(---)</item>
+        <item>M</item>
+        <item>L</item>
+        <item>\u03B8</item>
+        <item>T</item>
+        <item>n</item>
+        <item>I</item>
+        <item>J</item>
+    </string-array>
+</resources>

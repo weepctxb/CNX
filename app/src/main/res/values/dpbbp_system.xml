@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dpbbp_system">
+        <item>(Please select)</item>
+        <item>Ideal gas, ideal solution (Raoult)</item>
+        <item>Ideal gas, non-ideal solution (Modified Raoult)</item>
+        <item>Non-ideal (Gamma-Phi)</item>
+    </string-array>
+</resources>

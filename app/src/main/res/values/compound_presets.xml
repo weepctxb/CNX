@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compound_presets">
+        <item>(Not selected)</item> <!-- 0 -->
+        <item>1,3-butadiene</item>
+        <item>1,4-dioxane</item>
+        <item>1-butanol</item>
+        <item>1-butene</item>
+        <item>1-chlorobutane</item>
+        <item>1-heptene</item>
+        <item>1-hexanol</item>
+        <item>1-hexene</item>
+        <item>1-octene</item>
+        <item>1-pentene</item>
+        <item>1-propanol</item>
+        <item>2-butanol</item>
+        <item>2-propanol</item>
+        <item>acetaldehyde</item>
+        <item>acetic acid</item>
+        <item>acetone</item>
+        <item>acetonitrile</item>
+        <item>acetylene</item>
+        <item>air</item>
+        <item>ammonia</item>
+        <item>argon</item>
+        <item>benzene</item>
+        <item>benzoic acid</item>
+        <item>biphenyl</item>
+        <item>bromine</item>
+        <item>carbon dioxide</item>
+        <item>carbon disulfide</item>
+        <item>carbon monoxide</item>
+        <item>carbon tetrachloride</item>
+        <item>chlorine</item>
+        <item>chlorobenzene</item>
+        <item>chloroform</item>
+        <item>cis-2-butene</item>
+        <item>cumene</item>
+        <item>cyclohexane</item>
+        <item>cyclohexene</item>
+        <item>cyclopentane</item>
+        <item>dichloromethane</item>
+        <item>diethyl ether</item>
+        <item>dinitrogen tetroxide</item>
+        <item>ethane</item>
+        <item>ethanol</item>
+        <item>ethyl acetate</item>
+        <item>ethyl chloride</item>
+        <item>ethylamine</item>
+        <item>ethylbenzene</item>
+        <item>ethylene</item>
+        <item>ethylene glycol</item>
+        <item>ethylene oxide</item>
+        <item>formaldehyde</item>
+        <item>helium-4</item>
+        <item>hydrogen</item>
+        <item>hydrogen chloride</item>
+        <item>hydrogen cyanide</item>
+        <item>hydrogen sulfide</item>
+        <item>iso-butane</item>
+        <item>iso-butanol</item>
+        <item>iso-butylene</item>
+        <item>iso-octane</item>
+        <item>krypton</item>
+        <item>methane</item>
+        <item>methanol</item>
+        <item>methyl acetate</item>
+        <item>methyl chloride</item>
+        <item>methyl ethyl ketone</item>
+        <item>methyl t-butyl ether</item>
+        <item>methylamine</item>
+        <item>methylcyclohexane</item>
+        <item>methylcyclopentane</item>
+        <item>m-xylene</item>
+        <item>napthalene</item>
+        <item>n-butane</item>
+        <item>n-butyric acid</item>
+        <item>n-decane</item>
+        <item>n-eicosane</item>
+        <item>n-heptane</item>
+        <item>n-hexane</item>
+        <item>nitric acid</item>
+        <item>nitric oxide</item>
+        <item>nitrogen</item>
+        <item>nitrogen dioxide</item>
+        <item>nitromethane</item>
+        <item>nitrous oxide</item>
+        <item>n-nonane</item>
+        <item>n-octane</item>
+        <item>n-pentane</item>
+        <item>oxygen</item>
+        <item>o-xylene</item>
+        <item>phenol</item>
+        <item>propane</item>
+        <item>propylene</item>
+        <item>p-xylene</item>
+        <item>steam</item>
+        <item>styrene</item>
+        <item>sulfur dioxide</item>
+        <item>sulfur trioxide</item>
+        <item>tert-butanol</item>
+        <item>tetrafluoroethane</item>
+        <item>toluene</item>
+        <item>trans-2-butene</item>
+        <item>xenon</item>
+    </string-array>
+</resources>
