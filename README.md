@@ -1,14 +1,14 @@
 # CNX
 Chemical Engineering Calculations made simpler.
 
-![CNX](./app/src/main/res/GooglePlayStore.png){height=400px width=400px}
+[CNX](./app/src/main/res/GooglePlayStore.png =400x400)
 
-Quick install: Download ![the apk](./app/build/outputs/apk/debug/app-debug.apk), 
-![enable third-party apps](https://www.cnet.com/how-to/how-to-enable-third-party-app-installation-on-most-android-phones/) 
-on your Android phone, and ![install manually](https://www.androidauthority.com/how-to-install-apks-31494/).
+Quick install: Download [the apk](https://github.com/weepctxb/CNX/tree/master/app/build/outputs/apk/debug), 
+[enable third-party apps](https://www.cnet.com/how-to/how-to-enable-third-party-app-installation-on-most-android-phones/) 
+on your Android phone, and [install manually](https://www.androidauthority.com/how-to-install-apks-31494/).
 
 A detailed user guide containing available calculation modes can be 
-![found here](./app/src/main/assets/User Guide.pdf)
+[found here](https://github.com/weepctxb/CNX/blob/master/app/src/main/assets/User%20Guide.pdf)
 
 ##FAQ:
 
@@ -43,4 +43,4 @@ automatically filled in by the app (for example, selecting a preset
 compounds will autofill the corresponding Antoine parameters for vapour 
 pressure calculations via the Antoine equation.
 
-Provided by CNX v0.2.1 \u00A9 EPCT, 2018-2020
+Provided by CNX v0.2.1 &copy; EPCT, 2018-2020
