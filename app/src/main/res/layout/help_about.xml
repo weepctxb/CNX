@@ -53,7 +53,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="A: There is a wide variety of calculations available, randing from thermodynamics to mechanics. The aim of this app is to greatly simplify and automate many of these complex and tedious calculation processes. More features will be added over time so stay tuned for more updates."
+                android:text="A: There is a wide variety of calculations available,
+                randing from thermodynamics to mechanics. The aim of this app is to
+                greatly simplify and automate many of these complex and tedious calculation
+                processes. More features will be added over time so stay tuned for more updates."
                 android:layout_centerHorizontal="true" />
 
             <TextView
@@ -69,7 +72,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="A: This app only uses SI-base units and SI-derived units. Tap on the input parameter texts and a popup message will specify the required units (for example, the pressure input fields in the virial EoS calculations are required to be in bar), and all preset parameters are given in the specified units. However for some features (such as Antoine calculations if saturation pressure remains in natural logarithm) it is possible to use different units if you have your own custom parameter inputs."
+                android:text="A: This app only uses SI-base units and SI-derived units.
+                Tap on the input parameter texts and a popup message will specify the required
+                units (for example, the pressure input fields in the virial EoS calculations
+                are required to be in bar), and all preset parameters are given in the specified
+                units. However for some features (such as Antoine calculations if saturation
+                pressure remains in natural logarithm) it is possible to use different units
+                if you have your own custom parameter inputs."
                 android:layout_centerHorizontal="true" />
 
             <TextView
@@ -85,7 +94,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="A: Tap on the input parameter texts and a popup message will include more information (for example B0 and B1 in virial EoS calculations refer to the Pitzer correlation parameters)."
+                android:text="A: Tap on the input parameter texts and a popup message will
+                include more information (for example B0 and B1 in virial EoS calculations
+                refer to the Pitzer correlation parameters)."
                 android:layout_centerHorizontal="true" />
 
             <TextView
@@ -101,14 +112,18 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text="A: In many of these calculation features we have preset compounds that you can choose from. The required parameters will be automatically filled in by the app (for example, selecting a preset compounds will autoill the corresponding Antoine parameters for vapour pressure calculations via the Antoine equation."
+                android:text="A: In many of these calculation features we have preset
+                compounds that you can choose from. The required parameters will be
+                automatically filled in by the app (for example, selecting a preset
+                compounds will autofill the corresponding Antoine parameters for vapour
+                pressure calculations via the Antoine equation."
                 android:layout_centerHorizontal="true" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Provided by CNX v0.2.1 \u00A9 EPC Technologies, 2018"
+                android:text="Provided by CNX v0.2.1 \u00A9 EPCT, 2018-2020"
                 android:layout_marginTop="20dp"
                 android:layout_centerHorizontal="true" />
 
