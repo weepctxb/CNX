@@ -1,4 +1,7 @@
-/build
+/build/generated
+/build/intermediates
+/build/outputs/logs
+/build/tmp
 
-/src/androidTest
-/src/test
+/src/androidTest/
+/src/test/

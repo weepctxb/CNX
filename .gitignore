@@ -9,13 +9,13 @@
 .idea/modules.xml
 .idea/*.iml
 
-app/src/androidTest
-app/src/test
+/app/src/androidTest/
+/app/src/test/
 
-app/build/generated
-app/build/intermediates
-app/build/outputs/logs
-app/build/tmp
+/app/build/generated
+/app/build/intermediates
+/app/build/outputs/logs
+/app/build/tmp
 
 local.properties
 .DS_Store
@@ -26,3 +26,4 @@ captures/
 *.log
 *.dex
 .navigation/
+

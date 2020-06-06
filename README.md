@@ -1,6 +1,8 @@
 # CNX
 Chemical Engineering Calculations made simpler.
 
+![CNX](https://raw.githubusercontent.com/weepctxb/CNX/master/app/src/main/res/GooglePlayStore.png)
+
 ##FAQ:
 
 Q1: What are the calculation features available in this app?
