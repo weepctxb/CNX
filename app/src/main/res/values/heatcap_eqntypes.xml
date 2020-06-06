@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="heatcap_eqntypes">
-        <item>(Eqn)</item>
-        <item>c\u209A</item>
-        <item>c\u209A/R</item>
-    </string-array>
-</resources>
