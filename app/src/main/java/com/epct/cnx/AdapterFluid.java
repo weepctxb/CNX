@@ -45,6 +45,6 @@ public class AdapterFluid extends BaseAdapter {
 
     // references to our images
     private Integer[] mThumbIds = {
-            R.drawable.atm, R.drawable.friction
+            R.drawable.atm, R.drawable.friction, R.drawable.pump, R.drawable.comp
     };
 }

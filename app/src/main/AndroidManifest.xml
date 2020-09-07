@@ -27,6 +27,8 @@
         <activity android:name=".Maths.Dimen" />
         <activity android:name=".Fluid.Friction" />
         <activity android:name=".Fluid.Atm" />
+        <activity android:name=".Fluid.Pump" />
+        <activity android:name=".Fluid.Comp" />
         <activity android:name=".Kinetic.KinData" />
         <activity android:name=".Kinetic.Single" />
         <activity android:name=".Kinetic.NCstr" />

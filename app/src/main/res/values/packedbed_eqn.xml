@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="packedbed_eqn">
+        <item>Carman-Kozeny</item>
+        <item>Ergun</item>
+    </string-array>
+</resources>

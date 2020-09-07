@@ -13,6 +13,8 @@ import com.epct.cnx.FluSol.Pneumatic;
 import com.epct.cnx.FluSol.SingPart;
 import com.epct.cnx.Fluid.Atm;
 import com.epct.cnx.Fluid.Friction;
+import com.epct.cnx.Fluid.Pump;
+import com.epct.cnx.Fluid.Comp;
 import com.epct.cnx.HeatMass.ConvHeat;
 import com.epct.cnx.HeatMass.ConvMass;
 import com.epct.cnx.HeatMass.HeatExc;
@@ -125,6 +127,14 @@ public class MainActivity extends AppCompatActivity {
                     case 1: //friction
                         Intent friction = new Intent(MainActivity.this, Friction.class);
                         startActivity(friction);
+                        break;
+                    case 2: //pump
+                        Intent pump = new Intent(MainActivity.this, Pump.class);
+                        startActivity(pump);
+                        break;
+                    case 3: //friction
+                        Intent comp = new Intent(MainActivity.this, Comp.class);
+                        startActivity(comp);
                         break;
                 }
             }

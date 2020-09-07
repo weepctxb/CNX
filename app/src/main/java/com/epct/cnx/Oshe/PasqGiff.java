@@ -73,7 +73,7 @@ public class PasqGiff extends AppCompatActivity {
                         plume = false;
                         break;
                     case 1: //plume
-                        plume = false;
+                        puff = false;
                         plume = true;
                         break;
                 }
